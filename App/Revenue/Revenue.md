@@ -1,0 +1,2 @@
+### Wealth Advisory
+We make money with portfolio managment services. Over time as new generations are added to the DAO and the wealth grows, we can offer higher end services like access to our staking pools, cash loans backed by thier crypto assets 

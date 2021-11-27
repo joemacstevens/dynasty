@@ -1,0 +1,1 @@
+- UBS would keep these assets in branches located wherever the client requested.

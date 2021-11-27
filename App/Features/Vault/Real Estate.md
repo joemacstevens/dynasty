@@ -1,0 +1,3 @@
+- Portfolio of virtual and tokenized real world real estate assets 
+- Client can reference location of any type of asset including in virtual worlds like games
+- Client can also grant control of real esate to family members whom may want to utilize estates or borrow game items 

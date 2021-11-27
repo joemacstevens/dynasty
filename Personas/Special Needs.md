@@ -1,0 +1,1 @@
+Trusts can help older parents with special needs children who require long-term care as adults; 

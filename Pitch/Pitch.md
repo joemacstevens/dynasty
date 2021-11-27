@@ -54,6 +54,12 @@ When the metaverse becomes main stream there is going to be a expoential increas
 ### Genertaional Wealth
 Children will own investable assets in the gaming metaverse (Fortnite). When a Isan Wallet is issued to a child and they began storing thier precious gaming assets in it. Then UBS would have a direct financial relationship with this child earlier then has ever been possible. 
 
+[[Competition]]
+[[Marketing]]
+[[Team]]
+
+
+
 
 
 

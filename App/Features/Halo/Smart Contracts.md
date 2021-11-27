@@ -1,0 +1,2 @@
+- Uses clients transaction and history preferences to generate personlized contract components for client. 
+- Client can use recommended plans or use UBS components to build thier own contract

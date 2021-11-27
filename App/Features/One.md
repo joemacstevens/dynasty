@@ -1,0 +1,1 @@
+Dynasty is a efficent,intelligent, iterative, reliable living trust that fits in your pocket 

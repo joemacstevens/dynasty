@@ -1,0 +1,1 @@
+You can’t take it with you, but through a trust, you can define how you want your life’s work and wealth to continue to benefit the people and causes you love and care for.
