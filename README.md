@@ -1,2 +1,2 @@
-# Dynasty
-Dynasty is a living trust for digital and traditional assets 
+![Pilea](/logos/Pilea-logos_black.png)  Pilea 
+Pilea is a living trust for digital and traditional assets 
