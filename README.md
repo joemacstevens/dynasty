@@ -1,2 +1,5 @@
 ![Pilea](/logos/small.png)  Pilea 
-Pilea is a living trust for digital and traditional assets 
+
+Pilea is a legacy plan for all of your assets
+
+[Get Started](https://pilea.webflow.io/)
