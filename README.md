@@ -100,10 +100,10 @@ Big banks that embrace this opportunity early will thrive.
 
 This is a big idea, that we were only able to scratch the surface of for this competion. We developed some very early user flows to help demonstrate how this will work. 
 
-[Dashboard](https://overflow.io/s/7UW030WY?node=c57a615f)
-[Portfolio](https://overflow.io/s/7UW030WY?node=2fb1aaae)
-[Add to Halo](https://overflow.io/s/7UW030WY?node=216a878d)
-[OnBoard](https://overflow.io/s/7UW030WY?node=be21ef77)
-[Set up new account](https://overflow.io/s/7UW030WY?node=80fa93bd)
-[Add Life Event To Helix](https://overflow.io/s/7UW030WY?node=247240bb)
+- [Dashboard](https://overflow.io/s/7UW030WY?node=c57a615f)
+- [Portfolio](https://overflow.io/s/7UW030WY?node=2fb1aaae)
+- [Add to Halo](https://overflow.io/s/7UW030WY?node=216a878d)
+- [OnBoard](https://overflow.io/s/7UW030WY?node=be21ef77)
+- [Set up new account](https://overflow.io/s/7UW030WY?node=80fa93bd)
+- [Add Life Event To Helix](https://overflow.io/s/7UW030WY?node=247240bb)
 
