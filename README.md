@@ -1,4 +1,4 @@
-![Pilea](/logos/small.png)  Pilea 
+![Pilea](/logos/small.png)
 
 # Pilea
 
