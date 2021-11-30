@@ -1,73 +1,109 @@
-## Challenge Overview
+![Pilea](/logos/small.png)
 
-### **WIPRO VIRTUAL HACKATHON**
+# Pilea
 
-The Wipro Virtual Hackathon is setting the stage for developers to build new applications to manage cryptocurrency portfolio and interact with cryptocurrency exchanges.
+## Finally! A Legacy Plan for ALL of your assets.
 
-### **THEME OF THE HACKATHON**
+#### And it fits in your pocket.
 
-Manage your cryptocurrency portfolio in a smart and automated way, leveraging the power of open APIs.
+  ---
 
-When we think of our finances and investment assets, one of the first things that come to our minds is how to manage them effectively. This is especially true for crypto assets because the price volatility is extremely high, the market is “up and running” 24/7 and there are hundreds of different assets available.
+### The rise of digital assets
 
-The Hackathon participants are tasked with leveraging API of Binance cryptocurrency exchange to develop tools, bots or applications that help to manage assets or track the cryptocurrency market.
+Crypto, NFTs, and tokenization have caused an exponential increase in assets while also providing a way to transfer capital from one person to another quickly.
 
-Full documentation of the API can be found here: [https://binance-docs.github.io/apidocs/spot/en/#general-info](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbinance-docs.github.io%2Fapidocs%2Fspot%2Fen%2F%23general-info&data=04%7C01%7Cjoe.stevens%40wipro.com%7C1fca7309558041e8dbec08d9af6c3717%7C258ac4e4146a411e9dc879a9e12fd6da%7C1%7C0%7C637733702809686744%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=Rr1%2FNjrOtmHe1Y%2BjUeS6Xhvvs3zFRtzhSLMN4OIKRK8%3D&reserved=0 "Original URL: https://binance-docs.github.io/apidocs/spot/en/#general-info. Click or tap if you trust this link.")
+---
+  
+### **Problem:** How Much Am I Worth?
 
-##### **Examples of possible solutions:**
+This increase in assets and how easy it is to invest in them brings in more people than ever. Many of whom would have never considered investing before due to the assumed complexity. Eventually, these investors become interested in traditional equities and start purchasing those, and that's when a problem emerges.
 
-· A monitoring and alerting tool that is tracking the price of a cryptocurrency and sends notifications when the target price is hit
+Currently, no service can give you the complete picture of your net worth.
 
-· A trading bot that based on predefined algorithm is actively trading on the market
+There are either platforms that focus on crypto or traditional assets with limited support for importing crypto accounts.
 
-· An application that displays the balance of the portfolio and calculates PNL, ROI, APY, etc.
+If you want to get a complete picture, you've got to build something yourself.
 
-· Or anything else, your imagination is the limit.
+---
+ 
 
-### **POTENTIAL FOR REAL LIFE APPLICATIONS:**
+### How Pilea solves this?
 
-Even though the Hackathon is set in the cryptocurrency space, the rules and therefore solutions are easily transferable to the traditional banking space.
+---
 
-The same ideas could be applied successfully to manage FIAT portfolios or other traditional assets like stocks etc. Building robust monitoring tools and bots that can operate in extremely volatile market like cryptocurrency means this solution is also ready to scale in traditional banking space.
+#### Portfolio
 
-There is a certain level of abstraction here. This Hackathon is aiming towards demonstrating the power of open APIs and cloud computing as enabler of innovation.
+Pilea's portfolio treats traditional assets and digital assets like first-class citizens. Pilea allows a client to import exchange accounts and crypto wallets from different blockchains and traditional brokerages and banks. Pilea doesn't simply list these assets; it also supports;
 
-##### **Things to remember:**
+###### Defi
 
-You can use a public cloud provider like AWS, GCP and Azure to host your idea on and provide working prototype and the required infrastructure.
+Clients can leverage digital assets to generate income through staking and loaning out their support to earn interest. Pilea knows when you have help working for you, generating revenue. Eventually, Pilea will use the Client's Risk Profile to recommend Defi opportunities to them.
 
-_We will encourage you to use your personal accounts / laptops etc. for this work and avoid sharing any information from the Bank’s domain._
+  ---
 
-Whenever your code is in a working state, commit it. You never know when you may encounter a bug that you get stuck on. You can always roll back and submit an earlier working version. Sometimes, too, it can be easier to go back to a known working version and rewrite the code in a different way so as to avoid the bug.
+### **Problem:** How can I pass these digital assets to my family when I die?
 
-Remember too, that your entry can address a smaller part of a bigger problem. The code component is meant to be a proof of concept. Make your entry as functional as possible, but if you need to, mock-up parts of other process flows - it is acceptable to demonstrate how your solution and its core components work.
+One of the best features of digital assets is that the transfer of ownership is decentralized. You don't need any permission to transfer ownership. You only need your secret key to send it to someone else. When it comes to legacy planning, this feature becomes a curse. How can I initiate this transaction if I am dead? Whoever I intend to bequeath my assets to is going to need my keys.
 
-### **SUBMISSION REQUIREMENTS**
+Do I give my secret keys to my family ahead of time? How about my lawyer? Do I put them in a safety deposit box? Can I create a dead man's switch? Do I use multisig? Even if I find a service, how can I trust that it will still be around in 50 years?
 
-Upon completion of your Hackathon work, a link to the following deliverables should be submitted:
+There's no clear solution to this severe problem, **Yet**.
 
-##### **MINIMUM REQUIREMENTS**
+  ---
 
-· Code submission using a GitHub repository named after yourself / or your team.
+### How Pilea solves this?
 
-· There should be one single Git repository for your submission. If external resources are required, an install/setup script should be included.
+### Halo
 
-· All submission should include Docker or Vagrant container(s) that the solution runs on.
+Halo is a legacy plan minted on the Etherum blockchain as an NFT Smart Contract. It is capable of storing every digital asset that currently exists and will exist regardless of blockchain. So, Halo can keep a client's precious digital assets in one place.
 
-· Supporting documentation (this may include photographs of whiteboards, diagrams, written notes, a short business case, or any other material you think relevant)
+This Legacy Plan is composed by the Client from Smart Contract Components designed by UBS and tailored to the Client's specific situation. UBS audits the contract, so the Client can trust the terms are solid.
 
-· A 5-minute (or less) video summarising your entry – e.g. a screencast demonstration of your product and a short introduction to your team, vision, goals, and business proposition.
+When major family events like marriages, deaths, and births occur, Halo recommends updates to the Client's Legacy Plan. When accepted, those changes are minted as a new NFT.
 
-##### **OPTIONAL REQUIREMENTS**
+When the Client dies, the Smart Contract executes their legacy plans precisely as they wish automatically.
 
-A working application and/or website.
+  ---
 
-###### **JUDGING CRITERIA**
+#### What About Secret Keys?
 
-· TECHNOLOGY - How technically impressive is the product? Does it use a particularly inventive technique, or does it use several different components? Does the product have a “wow” factor? How well does the project solve the prescribed problem?
+Halo solves this problem by issuing wallets to Beneficiaries. When a client adds a beneficiary to Halo, they will be given a Flow card. NFC powers it, and when the Beneficiary taps it against their phone. It generates a secret key and adds them to the Client's Halo. Once added, transferring ownership of assets is done by the Client or their Legacy Smart contract.
 
-· DESIGN - Did the team put thought into the user experience? How well designed is the interface? Is it convincing, intuitive and consistent? Was the overall context of a solution considered? How relevant is the solution itself?
+  ---
+#### Bonus: Finacial Empowerment
 
-· MARKET FIT - Does the product solve a real problem and have a plausible market? Is there a workable business model that the project fits into? The project need not implement an entire business model.
+As we researched the technology needed to build Pilea, we discovered that we could also create a Digital Autonomous Organization. A Governance DAO with the power to pool money, issue tokens to people who contribute money, and provide voting power based on the number of tokens they hold. So we came up with;
 
-· COMPLETION - Does the product work? Did the team achieve what they wanted?
+### Pool
+
+The Pool is a DAO designed to empower families by enabling them to pool their resources together. This Pool can be a college fund, a donation to charity, political contributions, loans to beneficiaries, or whatever the family votes on.
+
+When a Beneficiary contributes to the Pool, they are issued tokens consummate with their donated amount. These tokens give them the vote.
+
+A Beneficiary can redeem the token for cash if they desire
+
+  ---
+
+## Vison (how do you become a gigantic company?)
+
+### The 2nd GDP
+
+When the metaverse becomes mainstream, there will be another exponential increase in the number of assets a person can own. There will be multiple gaming universes, fan universes, sport team universes, and movie ones. Digital assets will be worth as much if not more than tangible world assets. People are going to need financial guidance for this, just like they do in our physical universe. Banks have credibility when it comes to financial planning that crypto companies won't be able to match.
+
+### Generations of Equity
+
+Pilea is designed to evolve from the family's legacy plan to becoming the family's bank for generations to come. The children will likely use the Flow Wallets issued from the family's Pilea to purchase and store digital assets. It will be their introduction to wealth management, and it will have been from UBS. As this child grows, becomes an adult, and needs wealth management for themselves, UBS will be the first bank they think of.
+
+-----------------------------------------------------
+
+Big banks that embrace this opportunity early will thrive.
+
+This is a big idea, that we were only able to scratch the surface of for this competion. We developed some very early user flows to help demonstrate how this will work. 
+
+- [Dashboard](https://overflow.io/s/7UW030WY?node=c57a615f)
+- [Portfolio](https://overflow.io/s/7UW030WY?node=2fb1aaae)
+- [Add to Halo](https://overflow.io/s/7UW030WY?node=216a878d)
+- [OnBoard](https://overflow.io/s/7UW030WY?node=be21ef77)
+- [Set up new account](https://overflow.io/s/7UW030WY?node=80fa93bd)
+- [Add Life Event To Helix](https://overflow.io/s/7UW030WY?node=247240bb)
+
