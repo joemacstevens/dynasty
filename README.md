@@ -1,8 +1,5 @@
 ![Pilea](/logos/small.png)  Pilea 
 
-
-# Pilea
----
 ## A Legacy that fits in your pocket
 ---
 ## Problem
