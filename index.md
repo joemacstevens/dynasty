@@ -1,13 +1,3 @@
-![Pilea](/logos/small.png)
-
-# Pilea
-
-## Finally! A Legacy Plan for ALL of your assets.
-
-#### And it fits in your pocket.
-
-  ---
-
 ### The rise of digital assets
 
 Crypto, NFTs, and tokenization have caused an exponential increase in assets while also providing a way to transfer capital from one person to another quickly.
